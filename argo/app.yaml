@@ -12,7 +12,7 @@ spec:
     directory:
       recurse: true
     path: app
-    repoURL: https://github.ibm.com/bjzhoujc/openshift-gitops-getting-started.git
+    repoURL: https://github.com/nvzjc/openshift-gitops-getting-started.git
 #    targetRevision: main
   syncPolicy:
     automated:
